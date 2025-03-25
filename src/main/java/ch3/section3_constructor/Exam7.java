@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section3_constructor;
 
 class Stu {
     String name;

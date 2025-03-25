@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section4_static;
 
 public class Exam9 {
     int objVar = 0;

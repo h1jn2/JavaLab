@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section4_static;
 
 import ch3.section1.sub.Bitmap;
 import ch3.section1.sub.Builder;

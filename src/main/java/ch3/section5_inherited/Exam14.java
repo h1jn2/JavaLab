@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section5_inherited;
 
 // 공통 코드 개발자가 작성했다고 가정
 class Employeeee {

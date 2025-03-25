@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section5_inherited;
 
 // 객체 캐스팅은 상하위 관계에서만 가능
 

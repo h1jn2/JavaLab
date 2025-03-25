@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section2_method;
 
 // call by value, call by reference
 

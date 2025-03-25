@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section2_method;
 
 // 클래스 선언 및 객체 생성
 // 클래스의 구성은 변수, 함수, 생성자

@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section5_inherited;
 
 // Override
 

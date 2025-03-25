@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section2_method;
 
 class Student {
     String name;

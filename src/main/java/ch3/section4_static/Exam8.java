@@ -1,4 +1,4 @@
-package ch3.section1;
+package ch3.section4_static;
 
 // static과 메모리
 
